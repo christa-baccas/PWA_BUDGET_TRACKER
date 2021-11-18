@@ -15,9 +15,9 @@
 * [License](#license)
   
 ## Installation 
-Please access the application via the link below. 
+Application has been deployed to heroku, please access the application via the link below. 
 
-https://christa-baccas.github.io/PWA_BUDGET_TRACKER/
+https://cab-budget-tracker.herokuapp.com/
 
 ## ScreenShot 
  
