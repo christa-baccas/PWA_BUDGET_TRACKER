@@ -4,6 +4,7 @@
 
 ## Description: 
  The purpose of this application was to added the Progressive Web Application (PWA) feature to a budget tracker. With use of the PWA use has the ability to:
+ 
     - Add/Subtract funds when user is online
     - Add/Subtract funds when user is offine
     - When user switched offline and adds data the database will be updated once the application is back online.
