@@ -4,7 +4,8 @@ const FILES_TO_CACHE = [
     '/db.js',
     '/index.js',
     '/style.css',
-    '/icons.css',
+    '/icons/192x192',
+    '/icons/512x512',
   ];
   
   const PRECACHE = 'precache-v1';
